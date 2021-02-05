@@ -1,5 +1,5 @@
 {
-  "name": "glslify",
+  "name": "glslify-test",
   "version": "7.1.1",
   "description": "A node.js-style module system for GLSL!",
   "main": "index.js",

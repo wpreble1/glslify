@@ -61,9 +61,6 @@
     "shader",
     "webgl"
   ],
-  "browser": {
-    "index.js": "./browser.js"
-  },
   "homepage": "https://github.com/stackgl/glslify",
   "bugs": {
     "url": "https://github.com/stackgl/glslify/issues"

@@ -48,7 +48,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/stackgl/glslify.git"
+    "url": "git://github.com/wpreble1/glslify.git"
   },
   "keywords": [
     "ecosystem:stackgl",
@@ -60,9 +60,5 @@
     "cli",
     "shader",
     "webgl"
-  ],
-  "homepage": "https://github.com/stackgl/glslify",
-  "bugs": {
-    "url": "https://github.com/stackgl/glslify/issues"
-  }
+  ]
 }
